@@ -44,10 +44,18 @@ const Navbar = () => {
           Lexxurious Arts
         </h1>
         <ul className='uppercase p-4'>
-          <li className='p-4 border-b border-green-700'>Home</li>
-          <li className='p-4 border-b border-green-700'>About</li>
-          <li className='p-4 border-b border-green-700'>Portfolio</li>
-          <li className='p-4'>Contact</li>
+          <Link to='/'>
+            <li className='p-4 border-b border-green-700'>Home</li>
+          </Link>
+          <Link to='/about'>
+            <li className='p-4 border-b border-green-700'>About</li>
+          </Link>
+          <Link to='/portfolio'>
+            <li className='p-4 border-b border-green-700'>Portfolio</li>
+          </Link>
+          <Link to='/contact'>
+            <li className='p-4'>Contact</li>
+          </Link>
         </ul>
       </div>
     </div>

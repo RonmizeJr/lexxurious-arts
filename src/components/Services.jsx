@@ -14,7 +14,7 @@ function Services() {
               Voluptatibus quia, nulla! Maiores et perferendis eaque,
               exercitationem praesentium nihil.
             </p>
-            <button className='flex justify-center bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>
+            <button className='flex justify-center bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 text-black'>
               Get Started
             </button>
           </div>
@@ -28,7 +28,7 @@ function Services() {
               Voluptatibus quia, nulla! Maiores et perferendis eaque,
               exercitationem praesentium nihil.
             </p>
-            <button className='flex justify-center bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>
+            <button className='flex justify-center bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 text-black'>
               Get Started
             </button>
           </div>
@@ -42,7 +42,7 @@ function Services() {
               Voluptatibus quia, nulla! Maiores et perferendis eaque,
               exercitationem praesentium nihil.
             </p>
-            <button className='flex justify-center bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>
+            <button className='flex justify-center bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 text-black'>
               Get Started
             </button>
           </div>
